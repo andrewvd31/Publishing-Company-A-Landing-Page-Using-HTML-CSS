@@ -90,6 +90,10 @@ nav a{
     color: #444444;
 }
 
+main{
+    overflow-x: hidden;
+}
+
 /*imp! SECTION-1 CSS */
 
 .section-1{
